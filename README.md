@@ -1,5 +1,13 @@
-# GDNEditor
-A GD Editor recreated in DevelNext
+# GDN Editor
+## ГД Левел Эдитор, воссозданный в DevelNext.
 
-![GDN Editor_b1](https://github.com/ks51git/GDNEditor/assets/152047804/6baed21e-1d4f-4cbb-bca1-39ecde7250b1)
-![GDN Editor - Level Editor 1_b1](https://github.com/ks51git/GDNEditor/assets/152047804/191bc58c-f9c5-4492-881b-4f0cacad1e0a)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/ks51git/GDNEditor)
+
+GDN Editor - это ГД Левел Эдитор, но воссозданный в DevelNext!
+
+## Фичи
+
+- Смесь русского и английского языков
+- 13 блоков, 2 триггера
+- Портативность (Весит всего 16 мб!)
+- Настройки уровня
